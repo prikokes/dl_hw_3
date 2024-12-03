@@ -12,7 +12,7 @@
 Графики из wandb лежат в директории: reports. \
 В директорию src продублировал тетрадки. \
 
-Ссылка на веса моделей: https://drive.google.com/file/d/1C9xQbxnAH2koh6ipY6iNoDijzyoFZ8iD/view?usp=sharing \ 
+Ссылка на веса моделей: [https://drive.google.com/file/d/1C9xQbxnAH2koh6ipY6iNoDijzyoFZ8iD/view?usp=sharing](https://drive.google.com/file/d/1C9xQbxnAH2koh6ipY6iNoDijzyoFZ8iD/view?usp=sharing) \ 
 
 Часть 1. Ссылка на колаб: [https://colab.research.google.com/drive/1iov14q2bA7zScXKHlDezsLgVO0_sKPk0?usp=sharing](https://colab.research.google.com/drive/1iov14q2bA7zScXKHlDezsLgVO0_sKPk0?usp=sharing)
 
